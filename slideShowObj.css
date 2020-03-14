@@ -1,0 +1,17 @@
+div {
+    margin-top: 250px;
+    text-align: center; 
+ }
+ 
+ img{
+     min-width: 400px;
+    min-height: 400px;
+ }
+
+ #show_prev,  #show_next{
+     position: relative;
+     bottom: 150px;
+     font-size: 36px;
+     
+ }
+
